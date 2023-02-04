@@ -25,8 +25,6 @@ Fleshbag Marauder
 
 Noxious Ghoul
 
-Temple of Deceit
-
 Hordewing Skaab
 
 Kels, Fight Fixer
@@ -152,10 +150,12 @@ Sunken Hollow
 
 Dimir Aqueduct
 
+Temple of Deceit
+
 Darkwater Catacombs
 
 Chocked Estuary
 
 Island x11
 
-Swamp x15
+Swamp x14
