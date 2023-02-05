@@ -3,7 +3,6 @@
 ## Commander: [The Scarab God](https://scryfall.com/card/2xm/216/the-scarab-god)
 
 ## Creatures
-Corpse Augur
 
 Master of Death
 
@@ -11,23 +10,15 @@ Gisa and Geralf
 
 Death Baron
 
-Shadow Kin
-
 Cemetery Reaper
 
 Gray Merchant of Asphodel
 
 Undead Alchemist
 
-Ravenous Rotbelly
-
-Fleshbag Marauder
-
 Noxious Ghoul
 
 Hordewing Skaab
-
-Kels, Fight Fixer
 
 Eternal Skylord
 
@@ -35,11 +26,9 @@ Cleaver Skaab
 
 Midnight Reaper
 
-Forgotten Creation
-
 Plague Belcher
 
-Liliana's Standard Bearer
+Forgotten Creation
 
 Gravecrawler
 
@@ -57,8 +46,22 @@ Diregraf Colossus
 
 Diregraf Captain
 
+Gleaming Overseer
+
+Zombie Warchief
+
+Stitcher's Supplier
+
+Grave Titan
+
+Zombie Master
+
+Headless Rider
+
+Champion of the Perished
+
 ## Instants
-Down in Dreams
+Drown in Dreams
 
 Aetherspouts
 
@@ -66,8 +69,6 @@ Go for the Throat
 
 ## Sorceries
 Feed the Swarm
-
-Empty the Laboratory
 
 Army of the Damned
 
@@ -83,7 +84,7 @@ Profane Tutor
 
 Diabolic Intent
 
-Zombie Apocalypse
+Diabolic Tutor
 
 ## Artifacts
 Sol Ring
