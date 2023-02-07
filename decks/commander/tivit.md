@@ -3,12 +3,6 @@
 ## Commander: Tivit, Seller of Secrets
 
 ## Creatures
-Persistent Petitioners x7
-
-Bruvac the Grandiloquent
-
-Kambal, Consul of Allocation
-
 Erdwal Illuminator
 
 Custodi Squire
@@ -34,6 +28,10 @@ Deadeye Navigator
 Azor's Elocutors
 
 Brago's Representative
+
+Eloise, Nephalia Sleuth
+
+Kappa Cannoneer
 
 ## Instants
 Illusion of Choice
@@ -83,6 +81,14 @@ Tyrant's Choice
 
 Promise of Loyalty
 
+Profane Tutor
+
+Omniscience
+
+Diabolic Tutor
+
+Wrath of God
+
 ## Enchantments
 Court of Cunning
 
@@ -95,6 +101,10 @@ Smothering Tithe
 Teleportation Circle
 
 Ghostly Prison
+
+Propaganda
+
+Phyrexian Arena
 
 ## Artifacts
 Sol Ring
@@ -159,4 +169,4 @@ Island x10
 
 Plains x6
 
-Swamp x4
+Swamp x5
